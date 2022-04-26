@@ -1,0 +1,29 @@
+[{
+        "nama": "Jordan Istiqlal",
+        "semester": 5,
+        "email": "Jordanistiqlal18@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "iddosenwali": 1
+    },
+    {
+        "nama": "Imam",
+        "semester": 6,
+        "email": "imam@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "iddosenwali": 2
+    },
+    {
+        "nama": "yusuf",
+        "semester": 2,
+        "email": "yusuf@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "iddosenwali": 3
+    },
+    {
+        "nama": "abied",
+        "semester": 8,
+        "email": "abied@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "iddosenwali": 4
+    }
+]
